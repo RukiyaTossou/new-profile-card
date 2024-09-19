@@ -1,0 +1,10 @@
+:root {
+    /* colors */
+    --body-background-color:#000;
+    --card-backgorund-color:#FFF;
+    --card-accent-color:#576EFF;
+
+    /* margin/padding */
+    --border-radius:0.5rem;
+    --padding-standard:0.5rem;
+}
