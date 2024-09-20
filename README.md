@@ -16,40 +16,47 @@ Dit project is gemaakt in SvelteKit en is gecombineerd met Directus om data op t
 
 # Gebruik
 
+## creëren van een project
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+### Sveltekit installatie op vs code
 
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
+1. **Visual Studio Code installeren**: Zorg ervoor dat je Visual Studio Code (VSCode) geïnstalleerd hebt op je computer.
+2. **Node.js installeren**: Installeer Node.js, omdat je deze nodig hebt om SvelteKit-projecten te draaien.
+3. **SvelteKit project aanmaken**:
+    - Open een terminal in VSCode.
+    - Voer het volgende commando uit om een nieuw SvelteKit-project aan te maken:
+        
+        ```bash
+        npm init svelte@next my-svelte-project
+        
+        ```
+        
+    - Volg de instructies op het scherm om het project te configureren.
+4. **Navigeren naar je projectmap**:
+    - Ga naar de map van je project:
+        
+        ```bash
+        cd my-svelte-project
+        
+        ```
+        
+5. **NPM-pakketten installeren**:
+    - Installeer de benodigde pakketten met:
+        
+        ```bash
+        npm install
+        
+        ```
+        
+6. **Project starten**:
+    - Start de ontwikkelserver met:
+        
+        ```bash
+        npm run dev
+        
+        ```
+        
+    - Open je browser en ga naar de URL die in de terminal wordt weergegeven om je SvelteKit-project te bekijken.
+7. **Svelte for VSCode installeren**:
+    - Ga naar de extensiemarkt in VSCode en installeer de "Svelte for VSCode" extensie voor betere ondersteuning van Svelte in de editor.
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
