@@ -1,7 +1,8 @@
 # New profile card  
 
 ![image](https://github.com/user-attachments/assets/656ae1cd-3238-4227-8383-4b477695d158)
-De pagina bevat een bio-sectie, social media-iconen en zwevende bubbels die animeren bij hover.
+
+De pagina bevat een ckaart met een bio-sectie, social media-iconen en zwevende bubbels die animeren bij hover.
 
 
 live link: [myprofile-card](https://tourmaline-wisp-3a9b24.netlify.app/).
