@@ -1,5 +1,7 @@
 # New profile card  
+
 ![image](https://github.com/user-attachments/assets/656ae1cd-3238-4227-8383-4b477695d158)
+De pagina bevat een bio-sectie, social media-iconen en zwevende bubbels die animeren bij hover.
 
 
 live link: [myprofile-card](https://tourmaline-wisp-3a9b24.netlify.app/).
@@ -59,4 +61,15 @@ Dit project is gemaakt in SvelteKit en is gecombineerd met Directus om data op t
     - Open je browser en ga naar de URL die in de terminal wordt weergegeven om je SvelteKit-project te bekijken.
 7. **Svelte for VSCode installeren**:
     - Ga naar de extensiemarkt in VSCode en installeer de "Svelte for VSCode" extensie voor betere ondersteuning van Svelte in de editor.
+   
+ ## Bijdragen
+Als anderen willen bijdragen aan je project, kun je aangeven hoe dat kan:
+
+Fork het project
+Maak een nieuwe branch aan (git checkout -b functie/nieuwe-functie)
+Commit je wijzigingen (git commit -m 'Voeg nieuwe functie toe')
+Push naar je branch (git push origin functie/nieuwe-functie)
+Open een Pull Request
+
+
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
