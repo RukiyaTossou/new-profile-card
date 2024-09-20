@@ -1,4 +1,20 @@
-# create-svelte
+# New profile card  
+![alt text](image.png)
+
+live link: [myprofile-card](https://tourmaline-wisp-3a9b24.netlify.app/).
+
+# Kenmerken
+
+Dit project is gemaakt in SvelteKit en is gecombineerd met Directus om data op te halen. Hier is gebruik gemaakt van een +page.server.js om data aan te sturen naar de index.
+- HTML
+- CSS
+- JavaScript
+- Sveltekit
+- Directus
+
+
+# Gebruik
+
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
 
