@@ -62,14 +62,7 @@ Dit project is gemaakt in SvelteKit en is gecombineerd met Directus om data op t
 7. **Svelte for VSCode installeren**:
     - Ga naar de extensiemarkt in VSCode en installeer de "Svelte for VSCode" extensie voor betere ondersteuning van Svelte in de editor.
    
- ## Bijdragen
-Als anderen willen bijdragen aan je project, kun je aangeven hoe dat kan:
 
-Fork het project
-Maak een nieuwe branch aan (git checkout -b functie/nieuwe-functie)
-Commit je wijzigingen (git commit -m 'Voeg nieuwe functie toe')
-Push naar je branch (git push origin functie/nieuwe-functie)
-Open een Pull Request
 
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
